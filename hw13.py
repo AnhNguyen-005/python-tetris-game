@@ -1,6 +1,6 @@
 
 import turtle, random
-SCALE = 25 #Controls how many pixels wide each grid square is
+SCALE = 30 #Controls how many pixels wide each grid square is
 
 
 class Game:
